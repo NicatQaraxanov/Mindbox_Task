@@ -1,0 +1,14 @@
+C:\Users\tnqar\source\repos\MindboxTask\MindboxTask\obj\Debug\net6.0\MindboxTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tnqar\source\repos\MindboxTask\MindboxTask\obj\Debug\net6.0\MindboxTask.AssemblyInfoInputs.cache
+C:\Users\tnqar\source\repos\MindboxTask\MindboxTask\obj\Debug\net6.0\MindboxTask.AssemblyInfo.cs
+C:\Users\tnqar\source\repos\MindboxTask\MindboxTask\obj\Debug\net6.0\MindboxTask.csproj.CoreCompileInputs.cache
+C:\Users\tnqar\source\repos\MindboxTask\MindboxTask\bin\Debug\net6.0\MindboxTask.exe
+C:\Users\tnqar\source\repos\MindboxTask\MindboxTask\bin\Debug\net6.0\MindboxTask.deps.json
+C:\Users\tnqar\source\repos\MindboxTask\MindboxTask\bin\Debug\net6.0\MindboxTask.runtimeconfig.json
+C:\Users\tnqar\source\repos\MindboxTask\MindboxTask\bin\Debug\net6.0\MindboxTask.dll
+C:\Users\tnqar\source\repos\MindboxTask\MindboxTask\bin\Debug\net6.0\ref\MindboxTask.dll
+C:\Users\tnqar\source\repos\MindboxTask\MindboxTask\bin\Debug\net6.0\MindboxTask.pdb
+C:\Users\tnqar\source\repos\MindboxTask\MindboxTask\obj\Debug\net6.0\MindboxTask.dll
+C:\Users\tnqar\source\repos\MindboxTask\MindboxTask\obj\Debug\net6.0\ref\MindboxTask.dll
+C:\Users\tnqar\source\repos\MindboxTask\MindboxTask\obj\Debug\net6.0\MindboxTask.pdb
+C:\Users\tnqar\source\repos\MindboxTask\MindboxTask\obj\Debug\net6.0\MindboxTask.genruntimeconfig.cache
